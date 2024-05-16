@@ -7,10 +7,21 @@ A <b>resource group</b> in Azure serves as a logical container for related resou
   <li><b>Metadata Storage</b>: The resource group stores metadata about the resources it contains. When you specify a location for the group, you’re determining where that metadata is stored.</li>
 </ul>
 
-To create a resource group in Azure:
-<ol>
-  <li>Sign in to the Azure portal.</li>
-  <li>Go to <b>Resource groups</b>.</li> 
-  ![image](https://github.com/tipros/AzureResourceGroups/assets/170012689/c0496fb9-9cfe-4c0b-9186-f8a83e585194)
-  <li>Click <b>Create</b>, provide a name, select a region, and create the group</li>
-</ol>
+To create a resource group in Azure:<br/>
+1 - Sign in to the Azure portal.<br/>
+2 - Go to <b>Resource groups</b>.<br/>
+<img alt="Resource Group Link" src="https://github.com/tipros/AzureResourceGroups/assets/170012689/c0496fb9-9cfe-4c0b-9186-f8a83e585194" />
+  <br/>
+3 - Click <b>Create</b>, provide a name, select your subscription, select a region, and create the group.
+<img alt="Create a Resource Group Page" src="https://github.com/tipros/AzureResourceGroups/assets/170012689/0562a7e7-a136-4aa6-9074-c96b24f550ab" />
+  <br/>
+4 - Click <b>Review and Create</b>, then a validation message will confirm the resource group passed.
+<img alt="Validation Message" src="https://github.com/tipros/AzureResourceGroups/assets/170012689/b97c55de-65f1-402a-a15f-f0269516f613" />
+<br/>
+5 - Finally, click <b>Create</b> and notification will confirm the resource group was created.
+<img alt="Notification Resource Group Created" src="https://github.com/tipros/AzureResourceGroups/assets/170012689/f13e1680-0163-4d80-bbdc-bb1dd5e82250" />
+
+
+
+
+
